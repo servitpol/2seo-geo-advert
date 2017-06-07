@@ -1,0 +1,26 @@
+.area-in, .area-out, .info {
+	width: 49%;
+	min-height: 250px;
+	vertical-align: top;
+}
+
+input.name-input {
+    margin: 15px 0 0 15px;
+    width: 400px;
+}
+
+xmp {
+    font-size: 12px;
+}
+
+button.btn.btn-danger.del-block {
+    float: right;
+}
+
+textarea.area-in {
+    margin-right: 5px;
+}
+
+.form-group.header {
+    padding: 0 15px;
+}
